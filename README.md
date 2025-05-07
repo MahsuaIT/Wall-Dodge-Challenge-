@@ -1,6 +1,10 @@
 # Wall Dodge Challenge 🎮
 
-![Game Screenshot](https://via.placeholder.com/800x500.png?text=3D+Wall+Dodge+Challenge+Screenshot)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🌐_Brightgreen?style=for-the-badge)](https://mahsuait.github.io/Modern-Calculator/)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+![Calculator Screenshot](screenshot.png) <!-- Add your screenshot here -->
 
 A thrilling 3D-style dodging game where you navigate a red square through moving green walls. Test your reflexes and see how long you can survive!
 
